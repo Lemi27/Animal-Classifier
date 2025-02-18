@@ -12,8 +12,8 @@ A **K-Nearest Neighbors (KNN) classifier** implemented in **C**, designed to cla
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/KNN-Animal-Classifier.git
-   cd KNN-Animal-Classifier
+   git clone https://github.com/yourusername/Animal-Classifier.git
+   cd Animal-Classifier
 
 2. Compile the program using the provided makefile:
    ```bash
